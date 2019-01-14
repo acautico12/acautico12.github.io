@@ -7,15 +7,13 @@
 
 # Site settings
 title: Acautico 12
-email: your-email@domain.com
+email: vargas.ejido.96@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Blog de Acautico12 para la asignatura de IAW del IES CELIA VIÑAS
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Miguel_Pollo_96
+github_username:  Acautico12
 
 # Build settings
 markdown: kramdown
